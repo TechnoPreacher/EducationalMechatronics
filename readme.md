@@ -9,9 +9,8 @@ based on Raspberry Pi Pico for multilanguage (C++/Python) support;
 - soldering for electronics :-);
 
 #### online simulators:
-Python on Raspberry Pi Pico: https://wokwi.com/projects/new/micropython-pi-pico
-
-C++ on Raspberry Pi Pico: https://wokwi.com/projects/new/pi-pico
+- Python on Raspberry Pi Pico: https://wokwi.com/projects/new/micropython-pi-pico
+- C++ on Raspberry Pi Pico: https://wokwi.com/projects/new/pi-pico
 
 
 #### Contacts:
